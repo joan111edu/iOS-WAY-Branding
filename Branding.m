@@ -91,7 +91,7 @@
 "UC-One" = "WAY~";
 
 /* No comment provided by engineer. */
-"WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services." = "警告：請勿在非註冊的裝置上，使用 APP 撥打至 110/119。其可能將通話轉址到不正確的 110/119 中心，進一步造成延遲或阻止提供緊急服務。建議您知悉 110/119 的各種功能限制。在您的Hosted VoIP 最終用戶門戶中的“幫助”螢幕上有功能限制詳細說明。另外，建議您使用其他方法撥打 110/119 服務。 ";
+"WARNING: Do not use your soft phone to dial 911 except from your registered physical location. Use at a location other than the registered physical location may route 911 calls to an incorrect 911 dispatch center, potentially delaying or preventing emergency services. It is recommended that you maintain alternative access to 911 services." = "警告：請勿在非註冊的裝置上，使用 APP 撥打至 110/119。其可能將通話轉址到不正確的 110/119 中心，進一步造成延遲或阻止提供緊急服務。建議您知悉 110/119 的各種功能限制。在您的 Hosted VoIP 最終用戶門戶中的“幫助”螢幕上有功能限制詳細說明。另外，建議您使用其他方法撥打 110/119 服務。 ";
 
 /* No comment provided by engineer. */
 "WARNING: Your device does NOT support mobile network. Dialing emergency number may route emergency call to an incorrect emergency dispatch center, potentially delaying or preventing emergency service. This call is NOT allowed from your soft phone network." = "警告：您的設備不支援行動網路。撥打緊急呼叫可能會將緊急呼叫轉址到不正確的調度中心，也可能延緩或阻止緊急呼叫服務。此撥號行為在您的 APP 網路中是不允許。";
