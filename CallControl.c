@@ -74,7 +74,8 @@
 "Call Back" = "來電回撥";
 
 /* No comment provided by engineer. */
-"Call back and call through services are not configured for this device. Press the Configure button to configure these services automatically for this account. Otherwise the services must be configured manually using the Call Settings tab." = "此裝置尚未配置撥號服務。 ";
+"Call back and call through services are not configured for this device. Press the Configure button to configure these services automatically for this account. Otherwise the services must be configured manually using the Call Settings tab." = "此裝置尚未配置回撥及通話轉撥服務。";
+
 
 /* No comment provided by engineer. */
 "Call Center Agent" = "客服人員";
@@ -377,4 +378,4 @@
 "You are already in call with that contact" = "您已經在與該聯絡人通話中";
 
 /* No comment provided by engineer. */
-"You must add at least one address before activati​​​​ng the service." = "啟用本服務之前，必須至少新增一個位址。";
+"You must add at least one address before activating the service." = "啟用本服務之前，必須至少新增一個位址。";
