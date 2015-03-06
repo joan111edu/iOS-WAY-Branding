@@ -73,7 +73,7 @@
 /* No comment provided by engineer. */
 "Call Back" = "來電回撥";
 
-/* No comment provided by engineer. */
+/* Maping 失敗 */
 "Call back and call through services are not configured for this device. Press the Configure button to configure these services automatically for this account. Otherwise the services must be configured manually using the Call Settings tab." = "此裝置尚未配置撥號服務。 ";
 
 /* No comment provided by engineer. */
