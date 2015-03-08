@@ -142,7 +142,7 @@
 /* No comment provided by engineer. */
 "Are you sure you wish to unsubscribe from this this contact?" = "是否確定要取消追蹤該聯絡人？";
 
-/* No comment provided by engineer.待確認，是參加嗎*/
+/* 待確認，是參加嗎*/
 "Attended" = "對話+轉接";
 
 /* Device Management authentication failed */
@@ -218,7 +218,7 @@
 "Call Settings" = "通話設定";
 
 /* No comment provided by engineer. */
-"Call Through" = "通話接續";
+"Call Through" = "通話轉撥";
 
 /* No comment provided by engineer. */
 "Call Voice Mail" = "存取語音信箱";
@@ -252,10 +252,10 @@
 "Chat" = "聊天";
 
 /* No comment provided by engineer. */
-"Chat & Calls unavailable" = "目前無法使用聊天和通話";
+"Chat & Calls unavailable" = "目前無法聊天和通話";
 
 /* No comment provided by engineer. */
-"Chat unavailable" = "目前無法使用聊天";
+"Chat unavailable" = "目前無法聊天";
 
 /* No comment provided by engineer. */
 "Chat with Group" = "開始群聊";
@@ -291,7 +291,7 @@
 "Conference" = "會議室";
 
 /* No comment provided by engineer. */
-"Conference ID" = "會議室ID";
+"Conference ID" = "會議室代碼";
 
 /* No comment provided by engineer. */
 "Conference Info" = "會議室資訊";
@@ -324,7 +324,7 @@
 "Contact is busy." = "聯絡人忙碌中。";
 
 /* No comment provided by engineer. */
-"Contact list is empty" = "無聯絡人";
+"Contact list is empty" = "目前無聯絡人";
 
 /* No comment provided by engineer. */
 "Contact's display name can't be empty. Please enter a name." = "聯絡人的顯示名稱不能為空白欄。請輸入一個名稱。";
@@ -338,7 +338,7 @@
 /* No comment provided by engineer. */
 "Copy Guest Join Link" = "複製訪客加入連結";
 
-/* No comment provided by engineer. 回報問題*/
+/* No comment provided by engineer. */
 "Crash reporting" = "當機報告";
 
 /* No comment provided by engineer. */
@@ -382,7 +382,7 @@
 
 /* Device Management not URL
    Device Management popup */
-"Device configuration address" = "裝置配置位址";
+"Device configuration address" = "裝置位址";
 
 /* No comment provided by engineer. */
 "Device logs" = "裝置記錄檔";
@@ -457,7 +457,7 @@
 "Enhanced License failure" = "增強許可故障";
 
 /* Device Management popup */
-"Enter device configuration address" = "輸入裝置配置位址";
+"Enter device configuration address" = "輸入裝置位址";
 
 /* No comment provided by engineer. */
 "enter digits" = "輸入數字";
@@ -466,7 +466,7 @@
 "Enter Display Name" = "輸入顯示名稱";
 
 /* No comment provided by engineer. */
-"Enter ID" = "輸入 ID";
+"Enter ID" = "輸入代碼";
 
 /* No comment provided by engineer. */
 "Enter Number" = "輸入號碼";
@@ -475,7 +475,7 @@
 "Enter Phone" = "輸入電話";
 
 /* No comment provided by engineer. */
-"Enter PIN" = "輸入 PIN";
+"Enter PIN" = "輸入 PIN 碼";
 
 /* No comment provided by engineer. */
 "Enter the login URL address" = "輸入登入網址";
@@ -508,7 +508,7 @@
 "Failed to retrieve configuration" = "無法取得配置";
 
 /* No comment provided by engineer. */
-"Favorites" = "我的最愛";
+"Favorites" = "常用聯絡人";
 
 /* No comment provided by engineer. */
 "File logging" = "檔案記錄檔";
@@ -517,7 +517,7 @@
 "File Transfers" = "檔案傳輸";
 
 /* No comment provided by engineer. */
-"First Name" = "名";
+"First Name" = "名字";
 
 /* No comment provided by engineer. */
 "Forgot password" = "忘記密碼";
@@ -637,7 +637,7 @@
 "Languages​​​​" = "語言";
 
 /* No comment provided by engineer. */
-"Last Name" = "姓";
+"Last Name" = "姓氏";
 
 /* No comment provided by engineer. */
 "Launch My Room" = "開啟“我的聊天室”";
@@ -700,7 +700,7 @@
 "Mobile Phone" = "手機";
 
 /* No comment provided by engineer. */
-"Moderator PIN" = "主持人 PIN";
+"Moderator PIN" = "主持人PIN 碼";
 
 /* No comment provided by engineer. */
 "moderator" = "主持人";
@@ -786,10 +786,10 @@
 "Please configure an email account from settings before using this feature" = "在使用此功能前，請根據設定配置電子郵件帳戶。";
 
 /* Device Management popup */
-"Please enter the Device configuration address" = "請輸入裝置配置位址";
+"Please enter the Device configuration address" = "請輸入裝置位址";
 
 /* No comment provided by engineer. */
-"Please input home phone, conference number or id to create a contact" = "請輸入私人電話號碼、會議編號或 ID 以建立聯絡人";
+"Please input home phone, conference number or id to create a contact" = "請輸入私人電話號碼、會議室編號或代號以建立聯絡人";
 
 /* No comment provided by engineer. */
 "Please input your freetext" = "請輸入您的動態";
@@ -877,7 +877,7 @@
 "Search rooms" = "搜尋聊天室";
 
 /* No comment provided by engineer. */
-"Security PIN" = "安全 PIN";
+"Security PIN" = "PIN 碼";
 
 /* No comment provided by engineer. */
 "Select a Contact or Dial a Number" = "選擇聯絡人或撥打號碼";
@@ -958,7 +958,7 @@
 "Take photo" = "拍照";
 
 /* No comment provided by engineer. */
-"Tap to enter group name" = "點擊輸入群組名稱";
+"Tap to enter group name" = "點擊以輸入群組名稱";
 
 /* No comment provided by engineer. */
 "temid@temdomain.com" = "temid@temdomain.com";
@@ -985,7 +985,7 @@
 "The con name cannot be empty." = "會議室名稱不能為空白欄。";
 
 /* No comment provided by engineer. */
-"The con number cannot be empty." = "會議室編號不能為空白欄。 ";
+"The con number cannot be empty." = "會議室代號不能為空白欄。 ";
 
 /* No comment provided by engineer. */
 "The connection was lost. Please check your network settings" = "連線已失效。請檢查你的網路設定。";
@@ -1062,8 +1062,8 @@
 /* No comment provided by engineer. */
 "Transfer to new" = "轉移到新";
 
-/* No comment provided by engineer.待確認位址*​​/
- "Troubleshooting" = "回報問題";
+/* 待確認位址*/
+ "Troubleshooting" = "Troubleshooting";
  
  /* No comment provided by engineer. */
 "Type your message" = "輸入您的訊息";
@@ -1077,7 +1077,7 @@
 /* No comment provided by engineer. */
 "Unable to create request (bad url?)" = "無法建立邀請（網址錯誤？）";
 
-/* No comment provided by engineer. */
+/* 待確認*/
 "Unattended" = "轉接";
 
 /* No comment provided by engineer. */
@@ -1206,7 +1206,7 @@
 /* No comment provided by engineer. */
 "Your device does not support cellular calls,which are required for emergency calls." = "您的裝置不支援緊急呼叫。";
 
-"Waiting for callback... When connected, input the Conference code manually." = "正在等待回撥...接通後，請手動輸入會議代碼。";
+"Waiting for callback... When connected, input the Conference code manually." = "正在等待回撥...接通後，請輸入會議室代碼。";
 
 /* No comment provided by engineer. */
 "Participants" = "與會者";
