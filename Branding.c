@@ -76,7 +76,7 @@
 "Invalid client license. Contact your service provider." = "客戶許可無效。 聯繫服務提供商。";
 
 /* No comment provided by engineer. */
-"iPhone" = "iPhone";
+"iPhone" = "iPhone 撥號";
 
 /* No comment provided by engineer. */
 "Local AB Search" = "手機通訊錄搜尋";
