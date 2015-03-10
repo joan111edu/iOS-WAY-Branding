@@ -65,7 +65,7 @@
 "Add group" = "新增群組";
 
 /* No comment provided by engineer. */
-"Add Local Contact" = "新增手機聯絡人";
+"Add Local Contact" = "新增至手機聯絡人";
 
 /* No comment provided by engineer. */
 "Add Participants" = "新增與會者";
@@ -655,7 +655,7 @@
 "Local" = "手機聯絡人";
 
 /* No comment provided by engineer. */
-"Local AB Search" = "手機通訊錄搜尋";
+"Local AB Search" = "搜尋手機通訊錄";
 
 /* No comment provided by engineer. */
 "Local Address Book" = "手機通訊錄";
@@ -1018,10 +1018,10 @@
 "The request failed because it redirected too many times" = "由於重新定向次數過多，請求失敗";
 
 /* No comment provided by engineer. */
-"The request timed out" ="請求超時";
+"The request timed out" ="邀請超時";
 
 /* No comment provided by engineer. */
-"The request was cancelled"= "請求已取消";
+"The request was cancelled"= "邀請已取消";
 
 /* No comment provided by engineer. */
 "The temid@temdomain.com is already in use." = "temid@temdomain.com 已在使用。";
@@ -1087,7 +1087,7 @@
 "Unsubscribe" = "取消追蹤";
 
 /* No comment provided by engineer. */
-"Unsubscribed" = "未追蹤";
+"Unsubscribed" = "取消追蹤";
 
 /* No comment provided by engineer. */
 "URL" = "URL";
