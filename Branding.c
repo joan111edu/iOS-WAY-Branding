@@ -76,10 +76,10 @@
 "Invalid client license. Contact your service provider." = "客戶許可無效。 聯繫服務提供商。";
 
 /* No comment provided by engineer. */
-"iPhone" = "iPhone 撥號";
+"iPhone" = "iPhone";
 
 /* No comment provided by engineer. */
-"Local AB Search" = "手機通訊錄搜尋";
+"Local AB Search" = "搜尋手機通訊錄";
 
 /* No comment provided by engineer. */
 "SIP Call" = "VoIP 撥號";
