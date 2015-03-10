@@ -877,7 +877,7 @@
 "Search rooms" = "搜尋聊天室";
 
 /* No comment provided by engineer. */
-"Security PIN" = "PIN 碼";
+"Security PIN" = "會議室PIN 碼";
 
 /* No comment provided by engineer. */
 "Select a Contact or Dial a Number" = "選擇聯絡人或撥打號碼";
